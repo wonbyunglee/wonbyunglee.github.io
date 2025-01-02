@@ -2,10 +2,10 @@ primary_name: Wonbyung
 secondary_name: Lee
 navbar_name: WonbyungLee
 
-positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+# positions:
+# - logo: /assets/images/학생증사진1.jpg # Logo is optional
+#   name: Position 1 with logo
+# - name: Position 2 without logo
 
 
 email: co279727@gmail.com
@@ -30,8 +30,8 @@ short_bio: >-
     as well as being common in domestic longhair and domestic shorthair cats.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
+portrait_url: /assets/images/학생증사진1.jpg
+# portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
