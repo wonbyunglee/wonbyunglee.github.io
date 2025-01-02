@@ -15,9 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-homepage:
-  show_education: true
-
 # Build settings
 markdown: kramdown
 plugins:
