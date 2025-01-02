@@ -30,18 +30,18 @@ short_bio: >-
     as well as being common in domestic longhair and domestic shorthair cats.
   </p>
 
-portrait_url: /assets/images/학생증사진1.jpg
+portrait_url: /assets/images/mainpic.jpg
 # portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: SungKyunKwan University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/skku_logo.jpg
   position: Department of Applied Artificial Intelligence
   detail : M.S. Student
   date: Feb. 2024 - present
 - name: Dankook University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/dankook.jpeg
   position: B.S. in Statistics
   date: Mar. 2019 - Feb. 2024
 
