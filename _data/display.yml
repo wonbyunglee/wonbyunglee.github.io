@@ -1,7 +1,7 @@
 homepage:
   show_experience: false
   show_news: false
-  show_selected_publications: true
+  show_selected_publications: false
   show_education: true
   num_news: 10
 
