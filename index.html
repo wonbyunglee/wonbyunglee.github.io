@@ -9,13 +9,6 @@ navbar_title: Home
 
 {% include widgets/debug_url.html %}
 
-{% if site.data.profile.education %}
-    <section id="education">
-        <h2><i class="fas fa-graduation-cap"></i> Education</h2>
-        {% include widgets/education_card.html %}
-    </section>
-{% endif %}
-
 {% if site.data.display.homepage.show_experience %}
     {% include widgets/experience_card.html %}
 {% endif %}
