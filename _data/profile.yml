@@ -37,9 +37,8 @@ portrait_url: /assets/images/학생증사진1.jpg
 education:
 - name: SungKyunKwan University
   logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Applied Artificial Intelligence <br/>
-    M.S. Student
+  position: Department of Applied Artificial Intelligence
+  detail : M.S. Student
   date: Feb. 2024 - present
 - name: Dankook University
   logo: /assets/images/badges/PKU_red.png
