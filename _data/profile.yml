@@ -30,5 +30,6 @@ education:
     date: "Mar. 2019 - Feb. 2024"
 
 awards:
-  - name: "2024 Bigcontest in Generative AI"
+  - name: "2024 Bigcontest Award in Generative AI Part"
+    logo: "/assets/images/bigcontest.jpg"
     date: 2024
